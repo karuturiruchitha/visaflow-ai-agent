@@ -1,0 +1,29 @@
+[
+  {
+    "employee_id": "EMP001",
+    "first_name": "John",
+    "last_name": "Smith",
+    "email": "john.smith@company.com",
+    "visa_type": "H1B",
+    "expiry_date": "2026-10-15",
+    "days_remaining": 22
+  },
+  {
+    "employee_id": "EMP002",
+    "first_name": "Priya",
+    "last_name": "Sharma",
+    "email": "priya.sharma@company.com",
+    "visa_type": "H4 EAD",
+    "expiry_date": "2026-10-28",
+    "days_remaining": 35
+  },
+  {
+    "employee_id": "EMP003",
+    "first_name": "Michael",
+    "last_name": "Chen",
+    "email": "michael.chen@company.com",
+    "visa_type": "L1B",
+    "expiry_date": "2026-12-01",
+    "days_remaining": 69
+  }
+]
