@@ -1,0 +1,10 @@
+anthropic==0.25.0
+langchain==0.1.20
+langchain-anthropic==0.1.15
+fastapi==0.111.0
+uvicorn==0.29.0
+mysql-connector-python==8.3.0
+python-dotenv==1.0.1
+apscheduler==3.10.4
+smtplib2==0.2.1
+jinja2==3.1.4
